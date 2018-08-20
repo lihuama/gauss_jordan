@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "gauss_jordan", "gauss_jordan\gauss_jordan.vfproj", "{BD93657D-494E-43C7-9141-729A0762146A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD93657D-494E-43C7-9141-729A0762146A}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD93657D-494E-43C7-9141-729A0762146A}.Debug|x86.Build.0 = Debug|Win32
+		{BD93657D-494E-43C7-9141-729A0762146A}.Release|x86.ActiveCfg = Release|Win32
+		{BD93657D-494E-43C7-9141-729A0762146A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D754DC8-0518-4661-B1B6-F9CCAF5EBB6B}
+	EndGlobalSection
+EndGlobal
